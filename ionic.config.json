@@ -1,0 +1,7 @@
+{
+  "name": "ionic-salvador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
